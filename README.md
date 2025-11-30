@@ -1,5 +1,5 @@
-#Loan Data Pipeline
-#Descrição
+# Loan Data Pipeline
+# Descrição
 
 Este projeto consiste em um pipeline completo de análise de dados de empréstimos, desde a extração e limpeza dos dados até a integração com banco de dados SQL e análises exploratórias.
 O objetivo é criar um fluxo organizado que permita extrair insights sobre padrões de concessão de empréstimos, histórico de clientes e finalidade dos empréstimos.
@@ -17,7 +17,7 @@ O repositório está organizado da seguinte forma:
 └── README.md                # Este arquivo
 ```
 
-#Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
 Python (Pandas, Jupyter Notebook)
 
@@ -25,7 +25,7 @@ SQL Server (T-SQL)
 
 Git e GitHub para versionamento
 
-#Objetivo
+# Objetivo
 
 O objetivo do projeto é analisar dados de clientes e empréstimos para:
 
@@ -37,7 +37,7 @@ Identificar finalidades mais frequentes de empréstimos.
 
 Criar um pipeline replicável de integração e análise de dados.
 
-#Metodologia
+# Metodologia
 
 Extração de Dados: importação de arquivos CSV originais.
 
@@ -55,7 +55,7 @@ Saldo médio sem hipoteca por status de aprovação.
 
 Finalidades de empréstimos mais frequentes.
 
-#Principais Insights
+# Principais Insights
 
 A média do valor solicitado difere significativamente entre empréstimos aprovados e reprovados.
 
