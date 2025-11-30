@@ -17,7 +17,7 @@ O repositório está organizado da seguinte forma:
 └── README.md                # Este arquivo
 ```
 
-# Tecnologias
+# Ferramentas
 
 Python (Pandas, Jupyter Notebook)
 
